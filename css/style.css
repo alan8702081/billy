@@ -1,0 +1,229 @@
+.main-pic{
+  width: 1280px;
+  height: 720px;
+  background-color: #143642;
+  margin: auto 0;
+}
+.logo {
+	width: 298px;
+	height: 155px;
+  background-color: white;
+  position: relative;
+  top: 57.6%;
+  left: 37.9%;
+  float: left;
+}
+.icon{
+  position: relative;
+  top: 87.5%;
+  left: 36.5%;
+}
+.icon-fb {
+  position: absolute;
+	width: 41px;
+	height: 41px;
+	background-color: #ec634c;
+}
+.icon-yt {
+  position: absolute;
+	width: 41px;
+	height: 41px;
+	background-color: #ec634c;
+  left: 103px;
+}
+.icon-ig {
+  position: absolute;
+	width: 41px;
+	height: 41px;
+	background-color: #ec634c;
+  left: 204px;
+}
+.icon-vi {
+  position: absolute;
+	width: 41px;
+	height: 41px;
+	background-color: #ec634c;
+  left: 303px;
+}
+.about {
+ width: 1280px;
+ height: 628px;
+ background-color: #45a6cf;
+}
+.box1 {
+	width: 310px;
+	height: 310px;
+	background-color: #000;
+	border: solid 4.2px #666;
+  position: absolute;
+  top: 821px;
+  left: 210px;
+}
+.text1 {
+	font-family: AgencyFB-Reg ;
+	font-size: 54.5px;
+	text-align: left;
+	color: #143642;
+  position: absolute;
+  top: 820px;
+  left: 764px;
+}
+.line {
+	width: 280px;
+	height: 8px;
+	background-color: #143642;
+  position: absolute;
+  top: 878px;
+  left: 736px;
+  /*float: left;*/
+}
+.box2 {
+	width: 447px;
+	height: 225px;
+	background-color: #aaaaaa;
+  position: absolute;
+  left: 632px;
+  top: 905px;
+}
+.imfo {
+  font-family: AgencyFB;
+  font-size: 20px;
+  font-weight: bold;
+	line-height: 1.3;
+	letter-spacing: 4.8px;
+  text-align: left;
+	color: #0e8b8d;
+  position: relative;
+  padding-top: 33px;
+  padding-left: 19px;
+  padding-bottom: 37px;
+  padding-right: 12px;
+}
+.btn1 {
+	width: 168px;
+	height: 53px;
+	border-radius: 10px;
+	background-color: #acd598;
+	border: solid 4px #143642;
+  position: absolute;
+  top: 1222px;
+  left: 250px;
+}
+.btn2 {
+	width: 168px;
+	height: 53px;
+	border-radius: 10px;
+	background-color: #acd598;
+	border: solid 4px #143642;
+  position: absolute;
+  top: 1222px;
+  left: 455px;
+}
+.btn3 {
+	width: 168px;
+	height: 53px;
+	border-radius: 10px;
+	background-color: #acd598;
+	border: solid 4px #143642;
+  position: absolute;
+  top: 1222px;
+  left: 660px;
+}
+.btn4 {
+	width: 168px;
+	height: 53px;
+	border-radius: 10px;
+	background-color: #acd598;
+	border: solid 4px #143642;
+  position: absolute;
+  top: 1222px;
+  left: 862px;
+}
+.text2{
+  padding-top: 25px;
+  font-family: AgencyFB;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.0;
+  letter-spacing: 7.2px;
+  text-align: center;
+  color: #143642;
+  text-shadow: 3.5px 2px 2.8px rgba(87, 88, 92, 0.56);
+}
+.portfolio{
+  width: 1280px;
+  height: 737px;
+  background-color: #e0e0e0;
+}
+.text3{
+  font-family: AgencyFB-Reg;
+	font-size: 87.5px;
+	text-align: left;
+	color: #143642;
+  position: absolute;
+  top: 1387px;
+  left: 516px;
+}
+.line2{
+  width: 369px;
+	height: 8px;
+	background-color: #143642;
+  position: absolute;
+  left: 485px;
+  top: 1477px;
+}
+.text4{
+  font-family: AgencyFB-Reg;
+	font-size: 41.7px;
+	text-align: center;
+	color: #0f8b8d;
+  position: absolute;
+  top: 1721px;
+}
+.wk1{
+  left: 272px;
+}
+.wk2{
+  left: 508px;
+}
+.wk3{
+  left: 720px;
+}
+.wk4{
+  left: 922px;
+}
+.wk5{
+  left: 301px;
+}
+.wk6{
+  left: 496px;
+}
+.wk7{
+  left: 702px;
+}
+.wk8{
+  left: 922px;
+}
+.text5{
+  font-family: AgencyFB-Reg;
+	font-size: 41.7px;
+	text-align: center;
+	color: #0f8b8d;
+  position: absolute;
+  top: 2004px;
+
+}
+.footer{
+  width: 1280px;
+  height: 75px;
+  background-color: #ec634c;
+}
+.text6{
+  font-family: AgencyFB;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 2.14;
+	letter-spacing: 3.4px;
+	text-align: center;
+	color: #143642;
+}
